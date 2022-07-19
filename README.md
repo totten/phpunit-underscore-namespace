@@ -13,7 +13,7 @@ The example works in PHPUnit 5.x-8.x and fails in 9.x. (Output and commands show
 ## Setup
 
 ```
-git clone https://FIXME/
+git clone https://github.com/totten/phpunit-underscore-namespace
 cd phpunit-underscore-namespace
 composer install
 ```
